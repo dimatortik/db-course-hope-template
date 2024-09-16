@@ -1,44 +1,24 @@
+## Життєвий цикл розробки ПЗ
+## Лабораторні роботи №1-6
 
-# Шаблон репозиторію для виконання курсової роботи з дисципліни "Бази даних"
+група ІО-22 <b>Шерстюк Максим</b>
+<a href="https://t.me/Maxsooooon"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"/></a>
+<a href="mailto:sherstukmax2005@gmail.com"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg"/></a>
 
-## Як використовувати
+група ІО-22 <b>Вовченко Костянтин</b>
+<a href="https://t.me/engdan0"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"/></a>
+<a href="mailto:kosyuraip@gmail.com"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg"/></a>
 
-В цьому репозиторії знаходиться шаблон для виконання курсової роботи.
+група ІО-22 <b>Немашкало Кирило</b>
+<a href="https://t.me/animeshka2007"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"/></a>
+<a href="mailto:k.nemashkalo153@gmail.com"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg"/></a>
 
-Для виконання курсової роботи необхідно зробити ```fork``` цього репозіторію, склонувати вже власний репозіторій та розміщувати документацію у відповідних діректоріях ```./docs```.
+група ІО-22 <b>Чайка Андрій</b>
+<a href="https://t.me/andriichaika13"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"/></a>
+<a href="mailto:andrewchaika13@gmail.com"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg"/></a>
 
-В цьому файлі необхідно вказати назву проекту. Коротку загальну характеристику
-проекту, контактні дані виконавця, посилання на репо співвиконавців(за необхідністю).
+[НТУУ "КИЇВСЬКИЙ ПОЛІТЕХНІЧНИЙ ІНСТИТУТ імені ІГОРЯ СІКОРСЬКОГО](https://kpi.ua/)
 
+[Факультет інформатики та обчислювальної техніки](https://fiot.kpi.ua/)
 
-Шаблон публікування курсової роботи підготовлено з використанням [VuePress](https://vuepress.vuejs.org/), та теми 
-[vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope).
-
-Щоб опублікувати проект у Github Pages:
- - у вже склоновануму репозиторію на локальному компьютері ви переходите в ```./docs/.vuepress/config.ts```, в цьому файлі змінюєте на свої данні за інструкцією.
-
- - робите коміт у вітку main(master) та пушите його на віддалений репозиторій github, автоматично спрацьовує  workflow та починається процес деплою
-  
- - на сторінці github вашого репозиторію переходите в ```Settings```-->```Pages```, в ```Sourse``` обираєте варіант ```Deploy from branch```, в ```Branch``` обираєте ```gh-pages``` та папку ```/root``` та натискаєте ```Save``` та повертаєтесь до головної сторінки репозиторію.
-  
- - Почекайте поки на боковій панелі зʼявиться ```Deployments``` та в ньому ```github-pages```(може зайняти і більше хвилинни) та переходите по ньому, там ви побачите url до сторінки вашої документації.
-
-
-Для відлагодження документації в локальному режимі запускаємо
-
-```bash
-    npm run docs:dev
-```
-
-Доступ до локально опублікованої версії [http://localhost:8080](http://localhost:8080)
-
-
-
-## Додаткова інформація
-
-- [Теми проєктів](./guidelines/themes.md)
-- [Методичні вказівки](./guidelines/guidelines.md)
-- [Документація vuepress-theme-hope](https://theme-hope.vuejs.press/)
-- [Документація Markdown](https://theme-hope.vuejs.press/cookbook/markdown/)
-
-***Happy learning! Happy coding!*** 
+[Кафедра обчислювальної техніки](https://comsys.kpi.ua/)
