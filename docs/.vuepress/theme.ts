@@ -9,7 +9,7 @@ export default hopeTheme({
 
   editLink: false,
   // Замінити на назву свого репозиторія
-  repo: "/Maxson71/lab-template",
+  repo: "/Maxson71/new-campus",
 
   docsDir: "docs",
   // navbar

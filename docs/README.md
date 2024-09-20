@@ -3,7 +3,7 @@ home: true
 icon: home
 title: Початок
 
-heroText: "Назва проєкту"
+heroText: "NewCampus"
 
 tagline: Лабораторні роботи з дисципліни "Життєвий цикл розробки ПЗ"
 
