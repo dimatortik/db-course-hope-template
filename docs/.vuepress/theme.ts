@@ -9,7 +9,7 @@ export default hopeTheme({
 
   editLink: false,
   // Замінити на назву свого репозиторія
-  repo: "/Maxson71/new-campus",
+  repo: "dimatortik/db-course-hope-template",
 
   docsDir: "docs",
   // navbar
@@ -19,11 +19,13 @@ export default hopeTheme({
   sidebar,
 
   // Підставити рік та Ваше імʼя
-  footer: "ECL 2.0 Licensed | Copyright © 2024",
+  footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name] ",
 
   displayFooter: true,
 
-  plugins: {
+  plugins: 
+  {
+  
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,

@@ -3,41 +3,34 @@ home: true
 icon: home
 title: Початок
 
-heroText: "NewCampus"
+heroText: "Назва проєкту"
 
-tagline: Лабораторні роботи з дисципліни "Життєвий цикл розробки ПЗ"
+tagline: Лабораторні роботи з дисципліни "Організація баз данних"
 
 actions:
   - text: Розпочати
     icon: lightbulb
-    link: ./requirements/
+    link: ./intro/
     type: primary
 
-footer: "ECL 2.0 Licensed | Copyright © 2024 |"
+footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your name] |"
+
 ---
 
-**Виконали:**
 
-студенти 3-го курсу
+**Виконали:** 
 
-група ІО-22 <b>Шерстюк Максим </b>
-<a href="https://t.me/Maxsooooon"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"/></a>
-<a href="mailto:sherstukmax2005@gmail.com"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg"/></a>
+*студент(-ка) 2-го курсу, групи (шифр групи)*<span padding-right:5em></span> **[Імʼя Прізвище]**<span padding-left:5em></span> [Telegram](https://t.me/a_boldak)  
 
-група ІО-22 <b>Вовченко Костянтин </b>
-<a href="https://t.me/engdan0"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"/></a>
-<a href="mailto:kosyuraip@gmail.com"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg"/></a>
 
-група ІО-22 <b>Немашкало Кирило </b>
-<a href="https://t.me/animeshka2007"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"/></a>
-<a href="mailto:k.nemashkalo153@gmail.com"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg"/></a>
+**Керівник**
 
-група ІО-22 <b>Чайка Андрій </b>
-<a href="https://t.me/andriichaika13"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"/></a>
-<a href="mailto:andrewchaika13@gmail.com"><img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg"/></a>
+*доцент кафедри ОТ ФІОТ, к.т.н., доцент*<span padding-right:5em></span> **Андрій БОЛДАК** 
 
 [НТУУ "КИЇВСЬКИЙ ПОЛІТЕХНІЧНИЙ ІНСТИТУТ імені ІГОРЯ СІКОРСЬКОГО](https://kpi.ua/)
 
 [Факультет інформатики та обчислювальної техніки](https://fiot.kpi.ua/)
 
 [Кафедра обчислювальної техніки](https://comsys.kpi.ua/)
+
+Київ
