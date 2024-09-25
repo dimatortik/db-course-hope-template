@@ -2,25 +2,15 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
   "/": [
-    "",
     {
-      text: "Вступ",
-      // icon: "laptop-code",
-      prefix: "intro/",
-      link: "intro/",
-      children: "structure",
-      collapsible: true,
-    },
-    {
-      text: "Розроблення загальних вимог до системи",
+      text: "Специфікація вимог",
       // icon: "laptop-code",
       prefix: "requirements",
-      link: "requirements/",
       children: "structure",
       collapsible: true,
     },
     {
-      text: "Розроблення вимог до функціональної системи",
+      text: "Архітектура програмного забеспечення",
       // icon: "laptop-code",
       prefix: "use cases/",
       link: "use cases/",
@@ -28,7 +18,7 @@ export default sidebar({
       collapsible: true,
     },
     {
-      text: "Проєктування інформаційного забезпечення",
+      text: "Проєктування інтерфейсу програмного забеспечення",
       // icon: "laptop-code",
       prefix: "design/",
       link: "design/",
@@ -36,10 +26,18 @@ export default sidebar({
       collapsible: true,
     },
     {
-      text: "Реалізація інформаційного та програмного забезпечення",
+      text: "Реалізація програмного забеспечення",
       // icon: "laptop-code",
       prefix: "software/",
       link: "software/",
+      children: "structure",
+      collapsible: true,
+    },
+    {
+      text: "Інтеграці компонентів",
+      // icon: "laptop-code",
+      prefix: "test/",
+      link: "test/",
       children: "structure",
       collapsible: true,
     },
@@ -48,14 +46,6 @@ export default sidebar({
       // icon: "laptop-code",
       prefix: "test/",
       link: "test/",
-      children: "structure",
-      collapsible: true,
-    },
-    {
-      text: "Висновки",
-      // icon: "laptop-code",
-      prefix: "conclusion/",
-      link: "conclusion/",
       children: "structure",
       collapsible: true,
     },
